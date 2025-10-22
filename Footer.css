@@ -1,0 +1,16 @@
+.footer {
+  background-color: #1d6570;
+  color: white;
+  padding: 20px;
+  margin-top: 50px;
+}
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+}
+.footer img {
+  margin: 5px;
+}
+.footer h4, .footer p {
+  text-align: center;
+}
